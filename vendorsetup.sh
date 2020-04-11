@@ -15,4 +15,4 @@
 #
 
 add_lunch_combo lineage_tianchi-userdebug
-
+add_lunch_combo lineage_tianchi-eng
