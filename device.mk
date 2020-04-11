@@ -47,10 +47,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     lights.tianchi
 
-# Simple PowerHAL
-PRODUCT_PACKAGES += \
-    power.tianchi
-
 # NFC config
 PRODUCT_PACKAGES += \
     nfc_nci.tianchi
